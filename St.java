@@ -5,5 +5,6 @@ class St
 	Thread s=new Thread("John");
 	Boolean k=s.setPriority(11);
 	System.out.print(k);
-    }
+    
+}
 }
